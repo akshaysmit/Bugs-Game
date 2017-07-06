@@ -1,4 +1,4 @@
-Created in March, 2017. There are no known issues, all functionality mentioned in the documentation has been implemented.
+Created in March, 2017. There are no known issues, all functionality mentioned in the documentation has been implemented. The objects in the game are found in the Actor.h and Actor.cpp file. All actors and Bugs! compilers are maintained in StudentWorld.h and StudentWorld.cpp .
 
 This requires XQuartz and freeGLUT on a Mac OS X, and OpenGL and freeGLUT on Linux. On a Mac OS X, it is simplest to use Xcode.
 
