@@ -1,4 +1,4 @@
-This requires XQuartz and freeGLUT on a Mac OS X, and OpenGL and freeGLUT on Linux. On a Mac OS X, it is simplest to use Xcode.
+Created in March, 2017. This requires XQuartz and freeGLUT on a Mac OS X, and OpenGL and freeGLUT on Linux. On a Mac OS X, it is simplest to use Xcode.
 
 Instructions to run the game:
 
