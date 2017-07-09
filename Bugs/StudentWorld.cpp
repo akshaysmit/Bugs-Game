@@ -17,8 +17,6 @@ GameWorld* createStudentWorld(string assetDir)
 	return new StudentWorld(assetDir);
 }
 
-// Students:  Add code to this file (if you wish), StudentWorld.h, Actor.h and Actor.cpp
-
 StudentWorld::~StudentWorld() {
     cleanUp();
 }
