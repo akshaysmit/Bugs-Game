@@ -5,8 +5,6 @@
 #include <string>
 #include <cmath>
 
-// Students:  Add code to this file (if you wish), Actor.h, StudentWorld.h, and StudentWorld.cpp
-
 //////////////////////////////////////////
 //                 ACTOR                //
 //////////////////////////////////////////
