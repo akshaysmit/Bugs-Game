@@ -10,8 +10,6 @@
 #include <map>
 using namespace std;
 
-// Students:  Add code to this file, StudentWorld.cpp, Actor.h, and Actor.cpp
-
 class Compiler;
 
 class StudentWorld : public GameWorld
